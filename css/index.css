@@ -1,0 +1,92 @@
+.container-a {
+
+    margin-left: 500px;
+  
+    
+
+
+}
+.heading-container{
+    display: flex;
+    
+   
+    
+}
+
+.why-choose-anchor-tag {
+    font-size: 18px;
+    flex-direction: row;
+    margin: 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 100px;
+  
+}
+.why-choose-anchor-tag:hover{
+    color: red;
+    transition: 0.5s;
+    
+}
+
+.why-choose-input-tag {
+    margin-left: 150px;
+    border-radius: 60px;
+    height: 30px;
+    width: 200px;
+    align-items: center;
+    margin-top: 20px;
+  
+
+
+
+}
+
+.search-img {
+
+    height: 30px;
+
+}
+.h1-heading{
+    margin-top: 120px;
+    margin-left: 50px;
+    color: #8c7851;
+    font-size: 60px;
+
+}
+.h2-heading{
+    margin-left: 50px;
+    color: #020826;
+    font-size: 40px;
+
+}
+.p-heading{
+    margin-left: 50px;
+    color: #020826;
+    font-size: 20px;
+
+}
+.why-choose-img{
+    height: 450px;
+    width: 890px;
+    margin-left: 200px;
+    margin-top: 90px;
+    border-radius: 10px;
+    margin-right: 5px;
+    
+    
+ 
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.why-choose-icon{
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 10px;   
+    
+}

@@ -1,0 +1,71 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+}
+.heading-of-page {
+    margin-left: 500px;
+    font-size: 50px;
+    color: #8c7851;
+    
+
+
+}
+
+.sub-heading {
+    margin-left: 590px;
+    font-size: 30px;
+    color: #8c7851;
+
+
+}
+
+.image-container {
+    background-color:#ead9c7;
+    height: 530px;
+    width: 350px;
+    margin-left: 10px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.image-container:hover{
+    box-shadow: 0px 0px 5px 5px #8c7851;
+
+}
+
+.why-choose-imgage {
+    height: 230px;
+    width: 350px;
+   
+    border-radius: 15px;
+
+
+
+}
+.why-choose-h4{
+    color: #020826;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.para{
+    color: #716040;
+    font-size: 23px;
+    margin-left: 10px;
+}
+.why-choose-buttion{
+    height: 40px;
+    width: 100px;
+    margin-left: 90px;
+    border-radius: 20px;
+    background-color: #8c7851;
+    color: #fffffe;
+    cursor: pointer;
+
+
+}
+.why-choose-buttion:hover{
+    box-shadow: 0px 0px 5px 4px #8c7851;
+}
+
